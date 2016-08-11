@@ -1,0 +1,39 @@
+
+body{
+
+background-color: #BC8F8F
+
+}
+
+body {
+
+font: normal 12px Verdana, Arial, sans-serif;
+
+
+}
+
+h1{
+
+font-size: 40px;
+
+margin-left: 17px;
+
+}
+
+input, div, button, form {
+
+margin: 5px;
+
+}
+
+img{
+
+width: 180px;
+
+height: 96px;
+
+}
+
+.frame{
+	display: inline-table;
+}
